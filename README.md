@@ -5,14 +5,13 @@ Solid Solution Nested Graph Neural Network (with edge features in the compositio
           For the version without edge features in the compositional graph, e.g., study of the randomly distributed high-entropy alloys, please refer to the first version [SSNGNN_v1](https://github.com/Yidingwyd/SSNGNN).  
   
 # Contents  
-* [Brief review]()  
+* [Brief review](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#brief-review)  
 * [How to cite]()  
 * [Prerequisites]()  
 * [Usage]()
   * [Input of the SSNGNN]()
   * [Train a SSNGNN model]()
   * [Predict using a trained SSNGNN model]()
-  * [Data]()
 * [Acknowledgement]()
 * [Disclaimer]()
 
