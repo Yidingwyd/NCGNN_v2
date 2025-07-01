@@ -6,14 +6,14 @@ Solid Solution Nested Graph Neural Network (with edge features in the compositio
   
 # Contents  
 * [Brief review](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#brief-review)  
-* [How to cite]()  
-* [Prerequisites]()  
-* [Usage]()
-  * [Input of the SSNGNN]()
-  * [Train a SSNGNN model]()
-  * [Predict using a trained SSNGNN model]()
-* [Acknowledgement]()
-* [Disclaimer]()
+* [How to cite](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#how-to-cite)  
+* [Prerequisites](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#prerequisites)  
+* [Usage](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#usage)
+  * [Input of the SSNGNN](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#input-of-the-ssngnn)
+  * [Train a SSNGNN model](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#train-a-ssngnn-model)
+  * [Predict using a trained SSNGNN model](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#predict-using-a-trained-ssngnn-model)
+* [Acknowledgement](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#acknowledgement)
+* [Disclaimer](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#disclaimer)
 
 # Brief review
 SSNGNN provides a unified end-to-end representation learning framework for solid solution materials.   
