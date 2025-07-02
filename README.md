@@ -12,6 +12,7 @@ Solid Solution Nested Graph Neural Network (with edge features in the compositio
   * [Input of the SSNGNN](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#input-of-the-ssngnn)
   * [Train a SSNGNN model](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#train-a-ssngnn-model)
   * [Predict using a trained SSNGNN model](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#predict-using-a-trained-ssngnn-model)
+  * [Data]()
 * [Acknowledgement](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#acknowledgement)
 * [Disclaimer](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#disclaimer)
 
@@ -73,7 +74,8 @@ python predict.py --task regression  --test_data test_set_path --embedding atomi
 It should be noted that if any of the hyperparameters listed in the above table are modified during training, the same settings must be used during prediction. Meanwhile, the atomic embeddings must remain consistent with that used during training.  
   
 The order of samples in the generated `.xlsx` file is consistent with that in the test set. The "formula" column is provided for reference only and does not represent the actual chemical formula.  
- 
+## Data  
+To facilitate reproducibility of our work, all datasets used in our paper have been converted into `.json` files in [Kfold](https://github.com/Yidingwyd/SSNGNN_v2/tree/main/Kfold)   
 # Acknowledgement  
 Codes of the SSNGNN are developed based on [CGCNN](https://github.com/txie-93/cgcnn) and [Roost](https://github.com/CompRhys/roost). We strongly recommend to cite their works.  
 # Disclaimer  
