@@ -12,7 +12,7 @@ Solid Solution Nested Graph Neural Network (with edge features in the compositio
   * [Input of the SSNGNN](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#input-of-the-ssngnn)
   * [Train a SSNGNN model](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#train-a-ssngnn-model)
   * [Predict using a trained SSNGNN model](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#predict-using-a-trained-ssngnn-model)
-  * [Data]()
+  * [Data](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#data)
 * [Acknowledgement](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#acknowledgement)
 * [Disclaimer](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#disclaimer)
 
