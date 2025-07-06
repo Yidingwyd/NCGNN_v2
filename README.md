@@ -79,6 +79,6 @@ To facilitate reproducibility of our work, all datasets used in our paper have b
 # Acknowledgement  
 Codes of the SSNGNN are developed based on [CGCNN](https://github.com/txie-93/cgcnn) and [Roost](https://github.com/CompRhys/roost). We strongly recommend to cite their works.  
 # Disclaimer  
-This is research code shared without support or any guarantee on its quality. However, please do raise an issue or submit a pull request if you spot something wrong or that could be improved and I will try my best to solve it.  
+This code is only provided as part of a research project. However, I welcome any feedback, bug reports, or contributions from the community. If you notice any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. I will do my best to address it promptly.  
 E-mail address: yidingwyd@163.com  
 
