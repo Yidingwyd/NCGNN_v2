@@ -13,8 +13,7 @@ Solid Solution Nested Graph Neural Network (with edge features in the compositio
   * [Train a SSNGNN model](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#train-a-ssngnn-model)
   * [Predict using a trained SSNGNN model](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#predict-using-a-trained-ssngnn-model)
   * [Data](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#data)
-* [Acknowledgement](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#acknowledgement)
-* [Disclaimer](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#disclaimer)
+* [Acknowledgement](https://github.com/Yidingwyd/SSNGNN_v2?tab=readme-ov-file#acknowledgement)  
 
 # Brief review
 SSNGNN provides a unified end-to-end representation learning framework for solid solution materials.   
@@ -78,7 +77,3 @@ The order of samples in the generated `.xlsx` file is consistent with that in th
 To facilitate reproducibility of our work, all datasets used in our paper have been converted into `.json` files in [Kfold](https://github.com/Yidingwyd/SSNGNN_v2/tree/main/Kfold)   
 # Acknowledgement  
 Codes of the SSNGNN are developed based on [CGCNN](https://github.com/txie-93/cgcnn) and [Roost](https://github.com/CompRhys/roost). We strongly recommend to cite their works.  
-# Disclaimer  
-This code is only provided as part of a research project. However, I welcome any feedback, bug reports, or contributions from the community. If you notice any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. I will do my best to address it promptly.  
-E-mail address: yidingwyd@163.com  
-
