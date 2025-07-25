@@ -9,9 +9,9 @@ Created on Thu Jul  4 15:44:05 2024
 import torch.nn as nn
 import torch.nn.functional as F
 
-from roost import DescriptorNetwork
+from comp_gnn import DescriptorNetwork
 from roost_segments import SimpleNetwork, ResidualNetwork
-from cgcnn import CrystalGraphConvNet
+from struct_gnn import CrystalGraphConvNet
 
 
 

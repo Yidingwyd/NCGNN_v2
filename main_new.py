@@ -15,7 +15,6 @@ from torch.autograd import Variable
 from torch.optim.lr_scheduler import MultiStepLR
 from torch.utils.data import DataLoader, random_split
 from data import SSDataset, collate_batch
-# from cgcnn_data import  get_train_val_test_loader
 from model import SSNGNN
 import json
 
