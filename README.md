@@ -1,3 +1,4 @@
+# NCGNN_v2
 Nested Crystal Graph Neural Network (with edge features in the compositional graph)
   
 **Note:** This package is the version with edge features in the compositional graph.  
